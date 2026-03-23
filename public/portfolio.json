@@ -1,131 +1,177 @@
 {
   "personal": {
     "name": "Keertana P K",
-    "title": "Electronics Engineering Student | Data Analytics Enthusiast",
-    "tagline": "Blending electronics, data, and intelligent systems to create meaningful real-world solutions.",
-    "bio": "I am a final-year Electronics Engineering student with a strong interest in data analytics, intelligent systems, and applied engineering. I enjoy transforming complex data into actionable insights and building practical solutions that combine analytical thinking with engineering concepts.",
-    "currentRole": "Final-Year B.Tech Student at Ramaiah Institute of Technology",
-    "currentRoleDescription": "Focusing on data analytics, intelligent systems, and applied electronics through academic projects and hands-on implementations. Exploring real-time systems, machine learning, and data-driven problem solving.",
+    "highlightName": true,
+    "title": "Electronics Engineer • Data Analyst • Future AI Builder",
+    "tagline": "Designing intelligent systems where electronics meets data, and ideas turn into real-world impact.",
+    "bio": "Final-year Electronics Engineering student passionate about data analytics, intelligent systems, and building meaningful tech solutions. I love turning messy data into insights, ideas into systems, and concepts into real-world implementations. My work sits at the intersection of engineering, data, and creativity.",
+    "vibe": "pastel-aesthetic-modern",
+    "currentFocus": "Data Analytics • Intelligent Systems • Real-Time Applications",
     "email": "keertana162004@gmail.com",
-    "location": "Bengaluru, Karnataka, India"
+    "location": "Bengaluru, India",
+    "availability": "Open to internships and entry-level roles"
   },
+
   "about": {
-    "title": "About",
+    "title": "About Me",
     "sections": [
-      "I am a final-year Electronics Engineering student at Ramaiah Institute of Technology with a growing passion for data analytics, intelligent systems, and real-world problem solving.",
-      "My work focuses on combining engineering fundamentals with data-driven approaches. I enjoy analyzing datasets, building machine learning models, and designing systems that are both practical and impactful.",
-      "I am particularly interested in roles related to data analytics, technology consulting, and intelligent system development where I can apply analytical thinking and continuously learn new technologies."
+      "I’m someone who genuinely enjoys figuring things out — whether it’s analyzing a dataset, designing an antenna, or building a system from scratch. My journey in Electronics Engineering has helped me explore both hardware and software, but I found my strongest interest in data and intelligent systems.",
+      "I enjoy working on projects that combine logic, creativity, and real-world application. From building intrusion detection systems to analyzing market datasets, I focus on creating solutions that are not just technical but meaningful.",
+      "Currently, I’m exploring opportunities in data analytics, AI-driven systems, and tech consulting where I can grow, contribute, and build impactful solutions."
     ]
   },
+
   "experience": [
     {
       "period": "2025",
-      "title": "Intern – Design Thinking with AI: Low-Code/No-Code",
-      "company": "InternAge (Eighth Note Internet Pvt. Ltd.), India",
-      "description": "Completed an internship focused on design thinking and AI-powered low-code/no-code tools. Explored how to build digital solutions using modern AI platforms and automation tools while solving real-world problems.",
-      "skills": ["Design Thinking", "AI Tools", "Low-Code Platforms", "Problem Solving"]
+      "title": "AI + Design Thinking Intern",
+      "company": "InternAge",
+      "highlight": true,
+      "description": "Worked on real-world problem solving using design thinking and AI-powered no-code/low-code platforms. Learned how to transform ideas into digital solutions quickly using modern tools.",
+      "impact": [
+        "Built solution prototypes using AI tools",
+        "Applied design thinking to real problems",
+        "Explored no-code innovation workflows"
+      ],
+      "skills": ["AI Tools", "Design Thinking", "Problem Solving", "No-Code"]
     }
   ],
+
   "projects": [
     {
       "id": 1,
       "title": "Smart IoT Home Monitoring System",
-      "description": "Real-time monitoring system for environmental conditions using IoT sensors.",
-      "longDescription": "Designed a smart home monitoring system that tracks environmental parameters such as temperature and humidity using IoT sensors. The system processes data in real time and visualizes it through an interactive dashboard for better decision-making.",
-      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=500&h=300&fit=crop",
-      "tags": ["IoT", "Python", "Data Visualization"],
-      "link": "",
+      "emoji": "🏠",
+      "description": "Real-time environmental monitoring using IoT sensors",
+      "longDescription": "Built a smart monitoring system that collects temperature and humidity data using sensors and displays it through a real-time dashboard. Focused on usability and real-time insights.",
+      "highlights": [
+        "Real-time sensor data tracking",
+        "Interactive dashboard visualization",
+        "Practical IoT implementation"
+      ],
+      "tags": ["IoT", "Python", "Sensors", "Dashboard"],
       "featured": true
     },
     {
       "id": 2,
-      "title": "Real-Time Network Intrusion Detection System",
-      "description": "Machine learning-based system for detecting malicious IoT traffic.",
-      "longDescription": "Developed a real-time intrusion detection system that analyzes network packets and classifies them as normal or malicious using machine learning models. Integrated visualization dashboards to monitor traffic patterns effectively.",
-      "image": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?w=500&h=300&fit=crop",
-      "tags": ["Machine Learning", "Python", "Streamlit", "Cybersecurity"],
-      "link": "",
+      "title": "Real-Time Intrusion Detection System",
+      "emoji": "🛡️",
+      "description": "ML-based system to detect malicious network activity",
+      "longDescription": "Developed a machine learning-based IDS that analyzes network traffic and classifies it as normal or suspicious. Integrated with a live dashboard for monitoring.",
+      "highlights": [
+        "Live packet analysis",
+        "ML classification model",
+        "Interactive Streamlit dashboard"
+      ],
+      "tags": ["Machine Learning", "Cybersecurity", "Python", "Streamlit"],
       "featured": true
     },
     {
       "id": 3,
-      "title": "Consumer Electronics Market Data Analysis",
-      "description": "Data-driven insights into pricing and product trends.",
-      "longDescription": "Performed data cleaning, preprocessing, and visualization on a consumer electronics dataset to uncover trends in pricing, ratings, and specifications. Built interactive visualizations and applied regression analysis for predictive insights.",
-      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&h=300&fit=crop",
+      "title": "Smartphone Market Analytics",
+      "emoji": "📊",
+      "description": "Data analysis project uncovering pricing and trend insights",
+      "longDescription": "Cleaned and analyzed smartphone datasets to extract insights about pricing, ratings, and specifications. Built visual dashboards and predictive models.",
+      "highlights": [
+        "Data cleaning and preprocessing",
+        "Interactive visualizations",
+        "Regression-based predictions"
+      ],
       "tags": ["Data Analytics", "Pandas", "Plotly"],
-      "link": "",
       "featured": true
     },
     {
       "id": 4,
-      "title": "Intelligent Traffic Pattern Analysis",
-      "description": "Analytics-based approach to study traffic congestion trends.",
-      "longDescription": "Developed a data analytics workflow to analyze historical traffic data and identify congestion patterns and peak hours. Demonstrates how analytics can support smarter urban planning and decision-making.",
-      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=500&h=300&fit=crop",
-      "tags": ["Data Analytics", "Visualization"],
-      "link": "",
+      "title": "Traffic Pattern Intelligence System",
+      "emoji": "🚦",
+      "description": "Analyzing traffic trends for smarter insights",
+      "longDescription": "Analyzed traffic datasets to identify congestion trends and peak hours, demonstrating how analytics can improve smart city planning.",
+      "highlights": [
+        "Pattern recognition",
+        "Trend analysis",
+        "Urban data insights"
+      ],
+      "tags": ["Analytics", "Visualization"],
       "featured": false
     }
   ],
+
   "skills": [
     {
-      "category": "Programming & Tools",
+      "category": "Data & AI",
+      "style": "pastel-card",
+      "items": ["Data Analytics", "Machine Learning Basics", "Data Visualization", "Data Cleaning"]
+    },
+    {
+      "category": "Tech Stack",
+      "style": "pastel-card",
       "items": ["Python", "Pandas", "Scikit-learn", "Plotly", "Streamlit"]
     },
     {
-      "category": "Core Areas",
-      "items": ["Data Analytics", "Business Analytics", "Machine Learning Basics", "Data Visualization"]
+      "category": "Engineering",
+      "style": "pastel-card",
+      "items": ["HFSS", "Antenna Design", "Electromagnetic Simulation"]
     },
     {
-      "category": "Engineering Tools",
-      "items": ["HFSS", "Electromagnetic Simulation", "Antenna Design"]
-    },
-    {
-      "category": "Soft Skills",
-      "items": ["Analytical Thinking", "Problem Solving", "Technical Documentation", "Presentation"]
+      "category": "Strengths",
+      "style": "pastel-card",
+      "items": ["Problem Solving", "Analytical Thinking", "Communication", "Presentation"]
     }
   ],
-  "education": [
-    {
-      "degree": "Bachelor of Technology (B.Tech), Electronics Engineering",
-      "institution": "Ramaiah Institute of Technology, Bengaluru, India",
-      "period": "2022–2026"
-    },
-    {
-      "degree": "Pre-University",
-      "institution": "Christ PU College Residential, India",
-      "period": ""
-    },
-    {
-      "degree": "ICSE",
-      "institution": "Clarence High School, India",
-      "period": ""
-    }
-  ],
+
   "certifications": [
     {
-      "name": "Google Forage Certificate"
+      "name": "Google Forage",
+      "icon": "🌐",
+      "style": "pastel-badge"
     },
     {
-      "name": "Deloitte Forage Certificate"
+      "name": "Deloitte Forage",
+      "icon": "📈",
+      "style": "pastel-badge"
     },
     {
-      "name": "Infosys Springboard Certificate"
+      "name": "Infosys Springboard",
+      "icon": "💡",
+      "style": "pastel-badge"
     }
   ],
+
   "achievements": [
     {
-      "title": "Research Paper – Compact Patch Antenna",
-      "description": "Authored a research paper on the design and simulation of a compact microstrip patch antenna focusing on miniaturization and performance analysis."
+      "title": "Published Research Paper",
+      "icon": "📄",
+      "description": "Authored a research paper on compact microstrip patch antenna design focusing on miniaturization and performance optimization."
     }
   ],
+
   "activities": [
     {
       "title": "National Service Scheme (NSS)",
-      "description": "Actively participated in community service initiatives including outreach programs, social awareness campaigns, and campus engagement activities."
+      "icon": "🤝",
+      "description": "Actively contributed to community service initiatives including outreach programs, social awareness campaigns, and campus engagement activities."
     }
   ],
+
+  "education": [
+    {
+      "degree": "B.Tech – Electronics Engineering",
+      "institution": "Ramaiah Institute of Technology",
+      "period": "2022 – 2026"
+    }
+  ],
+
+  "ui_preferences": {
+    "theme": "pastel-pink-aesthetic",
+    "background": "gradient",
+    "highlightName": true,
+    "buttons": "rounded-glow",
+    "cards": "glassmorphism",
+    "animations": "smooth-fade",
+    "layout": "grid-columns",
+    "vibe": "cute-modern-professional"
+  },
+
   "social": [
     {
       "name": "LinkedIn",
