@@ -1,124 +1,57 @@
 {
-  "personal": {
-    "name": "Keertana P K",
-    "title": "Electronics Engineering Student | Data Analytics Enthusiast",
-    "tagline": "Transforming data and engineering concepts into impactful real-world solutions.",
-    "bio": "Final-year Electronics Engineering student at Ramaiah Institute of Technology with a strong focus on data analytics, intelligent systems, and applied engineering. Skilled in analyzing data, building machine learning models, and developing practical solutions that address real-world challenges.",
-    "email": "keertana162004@gmail.com",
-    "location": "Bengaluru, Karnataka, India"
-  },
+  "name": "Keertana P K",
+  "title": "Electronics Engineering Student | Data Analytics Enthusiast",
+  "tagline": "Transforming data and engineering concepts into real-world solutions.",
+  "email": "keertana162004@gmail.com",
+  "location": "Bengaluru, Karnataka, India",
 
-  "about": {
-    "title": "About Me",
-    "sections": [
-      "I am a final-year Electronics Engineering student with a strong interest in data analytics and intelligent systems. My academic journey has enabled me to build a solid foundation in both hardware and software domains.",
-      "I enjoy working with data to extract meaningful insights and develop solutions that combine analytical thinking with engineering principles. My work focuses on solving practical problems through structured and data-driven approaches.",
-      "I am actively seeking opportunities in data analytics, technology consulting, and intelligent system development where I can contribute effectively while continuously enhancing my technical skills."
-    ]
-  },
+  "about": "Final-year Electronics Engineering student at Ramaiah Institute of Technology with strong interests in data analytics, intelligent systems, and applied engineering. Skilled in data analysis, machine learning basics, and building practical solutions for real-world problems.",
 
-  "experience": [
-    {
-      "period": "2025",
-      "title": "Intern – Design Thinking with AI (Low-Code/No-Code)",
-      "company": "InternAge (Eighth Note Internet Pvt. Ltd.)",
-      "description": "Completed an internship focused on applying design thinking methodologies and AI-powered low-code/no-code tools to solve real-world problems. Gained experience in building solution prototypes and understanding modern digital product workflows."
-    }
-  ],
+  "experience": "Intern – Design Thinking with AI (InternAge): Worked on real-world problem solving using design thinking and AI-powered low-code/no-code tools and built solution prototypes.",
 
   "projects": [
-    {
-      "title": "Smart IoT Home Monitoring System",
-      "description": "Developed a real-time monitoring system to track environmental parameters such as temperature and humidity using IoT sensors. Designed an interactive dashboard to visualize and interpret data effectively.",
-      "technologies": ["Python", "IoT Sensors", "Data Visualization"]
-    },
-    {
-      "title": "Real-Time Network Intrusion Detection System",
-      "description": "Built a machine learning-based intrusion detection system to identify malicious network activity in IoT environments. Implemented real-time data processing and classification with a visualization interface.",
-      "technologies": ["Python", "Scikit-learn", "Pandas", "Streamlit"]
-    },
-    {
-      "title": "Smartphone Market Data Analysis",
-      "description": "Performed data cleaning, transformation, and exploratory analysis on smartphone datasets to extract insights related to pricing, ratings, and product features. Applied regression techniques for predictive analysis.",
-      "technologies": ["Python", "Pandas", "Plotly"]
-    },
-    {
-      "title": "Traffic Pattern Analysis",
-      "description": "Analyzed traffic datasets to identify congestion patterns and peak usage times. Demonstrated how data analytics can support smarter infrastructure planning.",
-      "technologies": ["Data Analytics", "Visualization"]
-    }
+    "Smart IoT Home Monitoring System – Developed a real-time system to monitor temperature and humidity using sensors and dashboards.",
+    "Real-Time Intrusion Detection System – Built a machine learning model to detect malicious network traffic in IoT systems.",
+    "Smartphone Market Data Analysis – Performed data cleaning, visualization, and regression analysis to extract insights.",
+    "Traffic Pattern Analysis – Analyzed traffic datasets to identify congestion trends and peak hours."
   ],
 
   "skills": [
-    {
-      "category": "Technical Skills",
-      "items": ["Python", "Data Analytics", "Business Analytics", "Machine Learning Basics", "Data Visualization"]
-    },
-    {
-      "category": "Tools and Technologies",
-      "items": ["Pandas", "Scikit-learn", "Plotly", "Streamlit", "HFSS"]
-    },
-    {
-      "category": "Core Competencies",
-      "items": ["Analytical Thinking", "Problem Solving", "Technical Documentation", "Communication"]
-    }
+    "Python",
+    "Data Analytics",
+    "Machine Learning Basics",
+    "Data Visualization",
+    "Pandas",
+    "Scikit-learn",
+    "Plotly",
+    "Streamlit",
+    "HFSS",
+    "Problem Solving",
+    "Analytical Thinking"
   ],
 
   "certifications": [
-    {
-      "name": "Google Forage Certificate",
-      "description": "Completed a virtual experience program involving real-world business problem solving and task-based learning."
-    },
-    {
-      "name": "Deloitte Forage Certificate",
-      "description": "Completed a consulting-focused virtual internship involving data analysis and business case problem solving."
-    },
-    {
-      "name": "Infosys Springboard Certificate",
-      "description": "Completed courses focused on digital technologies, professional skills, and industry-relevant concepts."
-    }
+    "Google Forage Certificate",
+    "Deloitte Forage Certificate",
+    "Infosys Springboard Certificate"
   ],
 
   "achievements": [
-    {
-      "title": "Research Paper – Compact Microstrip Patch Antenna",
-      "description": "Authored a research paper on the design and simulation of a compact microstrip patch antenna, focusing on miniaturization techniques and performance analysis."
-    }
+    "Published research paper on compact microstrip patch antenna design and analysis"
   ],
 
   "activities": [
-    {
-      "title": "National Service Scheme (NSS)",
-      "description": "Actively participated in community service initiatives including outreach programs, social awareness campaigns, and campus engagement activities."
-    }
+    "Active member of National Service Scheme (NSS) – participated in community outreach and social initiatives"
   ],
 
   "education": [
-    {
-      "degree": "Bachelor of Technology (B.Tech) – Electronics Engineering",
-      "institution": "Ramaiah Institute of Technology",
-      "period": "2022 – 2026"
-    },
-    {
-      "degree": "Pre-University Education",
-      "institution": "Christ PU College Residential",
-      "period": ""
-    },
-    {
-      "degree": "ICSE",
-      "institution": "Clarence High School",
-      "period": ""
-    }
+    "B.Tech in Electronics Engineering – Ramaiah Institute of Technology (2022–2026)",
+    "Christ PU College Residential",
+    "Clarence High School (ICSE)"
   ],
 
   "social": [
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/keertana-pkb0ba6b363"
-    },
-    {
-      "name": "Email",
-      "url": "mailto:keertana162004@gmail.com"
-    }
+    "LinkedIn: https://www.linkedin.com/in/keertana-pkb0ba6b363",
+    "Email: keertana162004@gmail.com"
   ]
 }
