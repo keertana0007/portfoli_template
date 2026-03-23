@@ -2,10 +2,10 @@
   "personal": {
     "name": "Keertana P K",
     "title": "Electronics Engineering Student | Data Analytics Enthusiast",
-    "tagline": "Turning data and engineering ideas into impactful real-world solutions.",
-    "bio": "Final-year Electronics Engineering student at Ramaiah Institute of Technology with strong interests in data analytics, intelligent systems, and applied engineering. Passionate about solving real-world problems through data-driven insights and practical implementations.",
+    "tagline": "Building data-driven solutions for real-world problems.",
+    "bio": "Final-year Electronics Engineering student with a strong focus on data analytics and intelligent systems. Passionate about solving real-world problems through structured, data-driven approaches.",
     "currentRole": "B.Tech Student – Electronics Engineering",
-    "currentRoleDescription": "Focused on data analytics, machine learning fundamentals, and real-time systems through academic projects and hands-on implementation.",
+    "currentRoleDescription": "Working on data analytics, machine learning fundamentals, and real-time system applications.",
     "email": "keertana162004@gmail.com",
     "location": "Bengaluru, Karnataka, India"
   },
@@ -13,9 +13,9 @@
   "about": {
     "title": "About",
     "sections": [
-      "I am a final-year Electronics Engineering student with a strong interest in data analytics and intelligent systems.",
-      "My work focuses on combining engineering concepts with data-driven approaches to solve real-world problems.",
-      "I am actively seeking opportunities in data analytics and technology roles where I can learn, grow, and contribute."
+      "I focus on solving real-world problems using data and engineering concepts.",
+      "My work combines analytical thinking with practical implementation.",
+      "I continuously learn, build, and improve through hands-on projects."
     ]
   },
 
@@ -24,7 +24,7 @@
       "period": "2025",
       "title": "Intern – Design Thinking with AI",
       "company": "InternAge",
-      "description": "Worked on solving real-world problems using design thinking and AI-powered low-code/no-code tools.",
+      "description": "Applied design thinking to solve real-world problems.\n\n• Built solution prototypes using AI-powered tools\n• Worked with low-code/no-code platforms\n• Focused on structured problem solving",
       "skills": ["Design Thinking", "AI Tools", "Problem Solving"]
     }
   ],
@@ -33,8 +33,8 @@
     {
       "id": 1,
       "title": "Smart IoT Home Monitoring System",
-      "description": "Developed a system to monitor environmental parameters like temperature and humidity using IoT sensors.",
-      "longDescription": "Built a real-time monitoring system with dashboard visualization to track environmental data effectively.",
+      "description": "Real-time monitoring of environmental conditions.",
+      "longDescription": "Designed and developed a system to track temperature and humidity using IoT sensors.\n\n• Real-time data collection\n• Dashboard-based visualization\n• Improved monitoring efficiency",
       "image": "",
       "tags": ["IoT", "Python", "Sensors"],
       "link": "",
@@ -43,8 +43,8 @@
     {
       "id": 2,
       "title": "Real-Time Intrusion Detection System",
-      "description": "Machine learning system to detect malicious network traffic.",
-      "longDescription": "Built a model to classify network traffic and identify suspicious activity in IoT environments.",
+      "description": "Machine learning-based network security system.",
+      "longDescription": "Built a system to detect suspicious network activity using machine learning.\n\n• Real-time packet analysis\n• ML-based classification\n• Interactive monitoring dashboard",
       "image": "",
       "tags": ["Machine Learning", "Python", "Streamlit"],
       "link": "",
@@ -53,8 +53,8 @@
     {
       "id": 3,
       "title": "Smartphone Market Data Analysis",
-      "description": "Analyzed smartphone datasets to extract pricing and trend insights.",
-      "longDescription": "Performed data cleaning, visualization, and regression analysis to generate insights.",
+      "description": "Data-driven insights from real-world datasets.",
+      "longDescription": "Analyzed smartphone datasets to identify pricing trends and patterns.\n\n• Data cleaning and preprocessing\n• Visualization using Plotly\n• Regression-based insights",
       "image": "",
       "tags": ["Data Analytics", "Pandas", "Plotly"],
       "link": "",
@@ -64,12 +64,24 @@
 
   "skills": [
     {
-      "category": "Technical Skills",
-      "items": ["Python", "Data Analytics", "Machine Learning Basics", "Data Visualization"]
+      "category": "Core Skills",
+      "items": [
+        "Data Analytics",
+        "Machine Learning Basics",
+        "Data Visualization",
+        "Problem Solving"
+      ]
     },
     {
       "category": "Tools",
-      "items": ["Pandas", "Scikit-learn", "Plotly", "Streamlit", "HFSS"]
+      "items": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "Plotly",
+        "Streamlit",
+        "HFSS"
+      ]
     }
   ],
 
