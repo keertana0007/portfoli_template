@@ -1,187 +1,124 @@
 {
   "personal": {
     "name": "Keertana P K",
-    "highlightName": true,
-    "title": "Electronics Engineer • Data Analyst • Future AI Builder",
-    "tagline": "Designing intelligent systems where electronics meets data, and ideas turn into real-world impact.",
-    "bio": "Final-year Electronics Engineering student passionate about data analytics, intelligent systems, and building meaningful tech solutions. I love turning messy data into insights, ideas into systems, and concepts into real-world implementations. My work sits at the intersection of engineering, data, and creativity.",
-    "vibe": "pastel-aesthetic-modern",
-    "currentFocus": "Data Analytics • Intelligent Systems • Real-Time Applications",
+    "title": "Electronics Engineering Student | Data Analytics Enthusiast",
+    "tagline": "Transforming data and engineering concepts into impactful real-world solutions.",
+    "bio": "Final-year Electronics Engineering student at Ramaiah Institute of Technology with a strong focus on data analytics, intelligent systems, and applied engineering. Skilled in analyzing data, building machine learning models, and developing practical solutions that address real-world challenges.",
     "email": "keertana162004@gmail.com",
-    "location": "Bengaluru, India",
-    "availability": "Open to internships and entry-level roles"
+    "location": "Bengaluru, Karnataka, India"
   },
 
   "about": {
     "title": "About Me",
     "sections": [
-      "I’m someone who genuinely enjoys figuring things out — whether it’s analyzing a dataset, designing an antenna, or building a system from scratch. My journey in Electronics Engineering has helped me explore both hardware and software, but I found my strongest interest in data and intelligent systems.",
-      "I enjoy working on projects that combine logic, creativity, and real-world application. From building intrusion detection systems to analyzing market datasets, I focus on creating solutions that are not just technical but meaningful.",
-      "Currently, I’m exploring opportunities in data analytics, AI-driven systems, and tech consulting where I can grow, contribute, and build impactful solutions."
+      "I am a final-year Electronics Engineering student with a strong interest in data analytics and intelligent systems. My academic journey has enabled me to build a solid foundation in both hardware and software domains.",
+      "I enjoy working with data to extract meaningful insights and develop solutions that combine analytical thinking with engineering principles. My work focuses on solving practical problems through structured and data-driven approaches.",
+      "I am actively seeking opportunities in data analytics, technology consulting, and intelligent system development where I can contribute effectively while continuously enhancing my technical skills."
     ]
   },
 
   "experience": [
     {
       "period": "2025",
-      "title": "AI + Design Thinking Intern",
-      "company": "InternAge",
-      "highlight": true,
-      "description": "Worked on real-world problem solving using design thinking and AI-powered no-code/low-code platforms. Learned how to transform ideas into digital solutions quickly using modern tools.",
-      "impact": [
-        "Built solution prototypes using AI tools",
-        "Applied design thinking to real problems",
-        "Explored no-code innovation workflows"
-      ],
-      "skills": ["AI Tools", "Design Thinking", "Problem Solving", "No-Code"]
+      "title": "Intern – Design Thinking with AI (Low-Code/No-Code)",
+      "company": "InternAge (Eighth Note Internet Pvt. Ltd.)",
+      "description": "Completed an internship focused on applying design thinking methodologies and AI-powered low-code/no-code tools to solve real-world problems. Gained experience in building solution prototypes and understanding modern digital product workflows."
     }
   ],
 
   "projects": [
     {
-      "id": 1,
       "title": "Smart IoT Home Monitoring System",
-      "emoji": "🏠",
-      "description": "Real-time environmental monitoring using IoT sensors",
-      "longDescription": "Built a smart monitoring system that collects temperature and humidity data using sensors and displays it through a real-time dashboard. Focused on usability and real-time insights.",
-      "highlights": [
-        "Real-time sensor data tracking",
-        "Interactive dashboard visualization",
-        "Practical IoT implementation"
-      ],
-      "tags": ["IoT", "Python", "Sensors", "Dashboard"],
-      "featured": true
+      "description": "Developed a real-time monitoring system to track environmental parameters such as temperature and humidity using IoT sensors. Designed an interactive dashboard to visualize and interpret data effectively.",
+      "technologies": ["Python", "IoT Sensors", "Data Visualization"]
     },
     {
-      "id": 2,
-      "title": "Real-Time Intrusion Detection System",
-      "emoji": "🛡️",
-      "description": "ML-based system to detect malicious network activity",
-      "longDescription": "Developed a machine learning-based IDS that analyzes network traffic and classifies it as normal or suspicious. Integrated with a live dashboard for monitoring.",
-      "highlights": [
-        "Live packet analysis",
-        "ML classification model",
-        "Interactive Streamlit dashboard"
-      ],
-      "tags": ["Machine Learning", "Cybersecurity", "Python", "Streamlit"],
-      "featured": true
+      "title": "Real-Time Network Intrusion Detection System",
+      "description": "Built a machine learning-based intrusion detection system to identify malicious network activity in IoT environments. Implemented real-time data processing and classification with a visualization interface.",
+      "technologies": ["Python", "Scikit-learn", "Pandas", "Streamlit"]
     },
     {
-      "id": 3,
-      "title": "Smartphone Market Analytics",
-      "emoji": "📊",
-      "description": "Data analysis project uncovering pricing and trend insights",
-      "longDescription": "Cleaned and analyzed smartphone datasets to extract insights about pricing, ratings, and specifications. Built visual dashboards and predictive models.",
-      "highlights": [
-        "Data cleaning and preprocessing",
-        "Interactive visualizations",
-        "Regression-based predictions"
-      ],
-      "tags": ["Data Analytics", "Pandas", "Plotly"],
-      "featured": true
+      "title": "Smartphone Market Data Analysis",
+      "description": "Performed data cleaning, transformation, and exploratory analysis on smartphone datasets to extract insights related to pricing, ratings, and product features. Applied regression techniques for predictive analysis.",
+      "technologies": ["Python", "Pandas", "Plotly"]
     },
     {
-      "id": 4,
-      "title": "Traffic Pattern Intelligence System",
-      "emoji": "🚦",
-      "description": "Analyzing traffic trends for smarter insights",
-      "longDescription": "Analyzed traffic datasets to identify congestion trends and peak hours, demonstrating how analytics can improve smart city planning.",
-      "highlights": [
-        "Pattern recognition",
-        "Trend analysis",
-        "Urban data insights"
-      ],
-      "tags": ["Analytics", "Visualization"],
-      "featured": false
+      "title": "Traffic Pattern Analysis",
+      "description": "Analyzed traffic datasets to identify congestion patterns and peak usage times. Demonstrated how data analytics can support smarter infrastructure planning.",
+      "technologies": ["Data Analytics", "Visualization"]
     }
   ],
 
   "skills": [
     {
-      "category": "Data & AI",
-      "style": "pastel-card",
-      "items": ["Data Analytics", "Machine Learning Basics", "Data Visualization", "Data Cleaning"]
+      "category": "Technical Skills",
+      "items": ["Python", "Data Analytics", "Business Analytics", "Machine Learning Basics", "Data Visualization"]
     },
     {
-      "category": "Tech Stack",
-      "style": "pastel-card",
-      "items": ["Python", "Pandas", "Scikit-learn", "Plotly", "Streamlit"]
+      "category": "Tools and Technologies",
+      "items": ["Pandas", "Scikit-learn", "Plotly", "Streamlit", "HFSS"]
     },
     {
-      "category": "Engineering",
-      "style": "pastel-card",
-      "items": ["HFSS", "Antenna Design", "Electromagnetic Simulation"]
-    },
-    {
-      "category": "Strengths",
-      "style": "pastel-card",
-      "items": ["Problem Solving", "Analytical Thinking", "Communication", "Presentation"]
+      "category": "Core Competencies",
+      "items": ["Analytical Thinking", "Problem Solving", "Technical Documentation", "Communication"]
     }
   ],
 
   "certifications": [
     {
-      "name": "Google Forage",
-      "icon": "🌐",
-      "style": "pastel-badge"
+      "name": "Google Forage Certificate",
+      "description": "Completed a virtual experience program involving real-world business problem solving and task-based learning."
     },
     {
-      "name": "Deloitte Forage",
-      "icon": "📈",
-      "style": "pastel-badge"
+      "name": "Deloitte Forage Certificate",
+      "description": "Completed a consulting-focused virtual internship involving data analysis and business case problem solving."
     },
     {
-      "name": "Infosys Springboard",
-      "icon": "💡",
-      "style": "pastel-badge"
+      "name": "Infosys Springboard Certificate",
+      "description": "Completed courses focused on digital technologies, professional skills, and industry-relevant concepts."
     }
   ],
 
   "achievements": [
     {
-      "title": "Published Research Paper",
-      "icon": "📄",
-      "description": "Authored a research paper on compact microstrip patch antenna design focusing on miniaturization and performance optimization."
+      "title": "Research Paper – Compact Microstrip Patch Antenna",
+      "description": "Authored a research paper on the design and simulation of a compact microstrip patch antenna, focusing on miniaturization techniques and performance analysis."
     }
   ],
 
   "activities": [
     {
       "title": "National Service Scheme (NSS)",
-      "icon": "🤝",
-      "description": "Actively contributed to community service initiatives including outreach programs, social awareness campaigns, and campus engagement activities."
+      "description": "Actively participated in community service initiatives including outreach programs, social awareness campaigns, and campus engagement activities."
     }
   ],
 
   "education": [
     {
-      "degree": "B.Tech – Electronics Engineering",
+      "degree": "Bachelor of Technology (B.Tech) – Electronics Engineering",
       "institution": "Ramaiah Institute of Technology",
       "period": "2022 – 2026"
+    },
+    {
+      "degree": "Pre-University Education",
+      "institution": "Christ PU College Residential",
+      "period": ""
+    },
+    {
+      "degree": "ICSE",
+      "institution": "Clarence High School",
+      "period": ""
     }
   ],
-
-  "ui_preferences": {
-    "theme": "pastel-pink-aesthetic",
-    "background": "gradient",
-    "highlightName": true,
-    "buttons": "rounded-glow",
-    "cards": "glassmorphism",
-    "animations": "smooth-fade",
-    "layout": "grid-columns",
-    "vibe": "cute-modern-professional"
-  },
 
   "social": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/keertana-pkb0ba6b363",
-      "icon": "linkedin"
+      "url": "https://www.linkedin.com/in/keertana-pkb0ba6b363"
     },
     {
       "name": "Email",
-      "url": "mailto:keertana162004@gmail.com",
-      "icon": "mail"
+      "url": "mailto:keertana162004@gmail.com"
     }
   ]
 }
