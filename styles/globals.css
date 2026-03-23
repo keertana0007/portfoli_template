@@ -51,3 +51,155 @@
     color: var(--foreground);
   }
 }
+/* ===== PREMIUM PASTEL UI (safe, single block) ===== */
+
+:root {
+  /* Colors */
+  --background: #F9F5FF;
+  --foreground: #1F1F2E;
+
+  --card: rgba(255, 255, 255, 0.65);
+  --card-foreground: #1F1F2E;
+
+  --primary: #D8B4FE;          /* lavender */
+  --primary-foreground: #1F1F2E;
+
+  --secondary: #F3E8FF;
+  --secondary-foreground: #1F1F2E;
+
+  --accent: #FDE2F3;           /* blush */
+  --accent-foreground: #1F1F2E;
+
+  --muted: #F8F3FF;
+  --muted-foreground: #6B6B80;
+
+  --border: rgba(200, 180, 220, 0.35);
+  --ring: #D8B4FE;
+
+  --radius: 0.9rem;
+
+  /* Typography */
+  --font-sans: 'Poppins', 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Base */
+@layer base {
+  html, body {
+    height: 100%;
+  }
+
+  body {
+    /* Soft professional gradient */
+    background:
+      radial-gradient(1200px 600px at 10% 0%, #FDE2F3 0%, transparent 60%),
+      radial-gradient(900px 500px at 90% 10%, #E9D5FF 0%, transparent 60%),
+      linear-gradient(135deg, #F9F5FF 0%, #F3E8FF 100%);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    letter-spacing: -0.01em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3 {
+    letter-spacing: -0.02em;
+  }
+
+  /* Elegant divider */
+  hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #E9D5FF, transparent);
+  }
+}
+
+/* ===== GLASS CARDS ===== */
+@layer components {
+  .card, section {
+    background: var(--card);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow:
+      0 10px 30px rgba(0, 0, 0, 0.06),
+      inset 0 1px 0 rgba(255, 255, 255, 0.4);
+    transition: transform .3s ease, box-shadow .3s ease, border-color .3s ease;
+  }
+
+  .card:hover, section:hover {
+    transform: translateY(-4px);
+    box-shadow:
+      0 18px 40px rgba(0, 0, 0, 0.08),
+      0 6px 16px rgba(216, 180, 254, 0.18);
+    border-color: rgba(216, 180, 254, 0.45);
+  }
+}
+
+/* ===== BUTTONS ===== */
+@layer components {
+  button, .btn {
+    border-radius: 999px;
+    padding: 10px 18px;
+    border: 1px solid rgba(216, 180, 254, 0.35);
+    background: linear-gradient(135deg, #E9D5FF, #FBCFE8);
+    color: #1F1F2E;
+    transition: transform .25s ease, box-shadow .25s ease, filter .25s ease;
+  }
+
+  button:hover, .btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 22px rgba(216, 180, 254, 0.35);
+    filter: brightness(1.03);
+  }
+}
+
+/* ===== NAME / HERO GRADIENT TEXT ===== */
+.name-gradient {
+  background: linear-gradient(135deg, #C084FC, #F472B6, #FBCFE8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+/* ===== SOFT FLOATING BLOBS (SUBTLE, PROFESSIONAL) ===== */
+@layer components {
+  .bg-blob::before,
+  .bg-blob::after {
+    content: "";
+    position: fixed;
+    z-index: -1;
+    filter: blur(60px);
+    opacity: 0.35;
+    pointer-events: none;
+  }
+
+  .bg-blob::before {
+    width: 380px; height: 380px;
+    top: -60px; left: -60px;
+    background: #FDE2F3;
+    border-radius: 50%;
+  }
+
+  .bg-blob::after {
+    width: 420px; height: 420px;
+    bottom: -80px; right: -80px;
+    background: #E9D5FF;
+    border-radius: 50%;
+  }
+}
+
+/* ===== LINKS ===== */
+a {
+  transition: color .2s ease, opacity .2s ease;
+}
+a:hover {
+  color: #C084FC;
+  opacity: 0.9;
+}
+
+/* ===== FOCUS RING ===== */
+:focus-visible {
+  outline: 2px solid rgba(216, 180, 254, 0.6);
+  outline-offset: 2px;
+}
