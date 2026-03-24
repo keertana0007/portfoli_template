@@ -1,9 +1,9 @@
 {
   "personal": {
     "name": "Keertana P K",
-    "title": "Electronics Engineering Student | Data Analytics Enthusiast",
-    "tagline": "Building data-driven solutions for real-world problems.",
-    "bio": "Final-year Electronics Engineering student with a strong focus on data analytics and intelligent systems. Passionate about solving real-world problems through structured, data-driven approaches.",
+    "title": "Electronics Engineering Student | Data Analytics",
+    "tagline": "Data-driven problem solving. Practical engineering solutions.",
+    "bio": "Final-year Electronics Engineering student with a focus on data analytics and intelligent systems. Experienced in analyzing real-world datasets and building practical, data-driven solutions.",
     "currentRole": "B.Tech Student – Electronics Engineering",
     "currentRoleDescription": "Working on data analytics, machine learning fundamentals, and real-time system applications.",
     "email": "keertana162004@gmail.com",
@@ -13,9 +13,9 @@
   "about": {
     "title": "About",
     "sections": [
-      "I focus on solving real-world problems using data and engineering concepts.",
-      "My work combines analytical thinking with practical implementation.",
-      "I continuously learn, build, and improve through hands-on projects."
+      "Focused on solving real-world problems using data and engineering principles.",
+      "Strong interest in analytics, intelligent systems, and applied machine learning.",
+      "Continuously building practical projects to develop technical depth."
     ]
   },
 
@@ -24,7 +24,7 @@
       "period": "2025",
       "title": "Intern – Design Thinking with AI",
       "company": "InternAge",
-      "description": "Applied design thinking to solve real-world problems.\n\n• Built solution prototypes using AI-powered tools\n• Worked with low-code/no-code platforms\n• Focused on structured problem solving",
+      "description": "Applied structured problem-solving using design thinking and AI-powered tools.\n\n• Built solution prototypes\n• Worked with low-code platforms\n• Focused on practical implementation",
       "skills": ["Design Thinking", "AI Tools", "Problem Solving"]
     }
   ],
@@ -33,9 +33,9 @@
     {
       "id": 1,
       "title": "Smart IoT Home Monitoring System",
-      "description": "Real-time monitoring of environmental conditions.",
-      "longDescription": "Designed and developed a system to track temperature and humidity using IoT sensors.\n\n• Real-time data collection\n• Dashboard-based visualization\n• Improved monitoring efficiency",
-      "image": "",
+      "description": "Real-time environmental monitoring system.",
+      "longDescription": "Developed a system to monitor temperature and humidity using IoT sensors.\n\n• Real-time data acquisition\n• Dashboard visualization\n• Efficient monitoring system",
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800",
       "tags": ["IoT", "Python", "Sensors"],
       "link": "",
       "featured": true
@@ -43,9 +43,9 @@
     {
       "id": 2,
       "title": "Real-Time Intrusion Detection System",
-      "description": "Machine learning-based network security system.",
-      "longDescription": "Built a system to detect suspicious network activity using machine learning.\n\n• Real-time packet analysis\n• ML-based classification\n• Interactive monitoring dashboard",
-      "image": "",
+      "description": "Machine learning-based network security solution.",
+      "longDescription": "Built a system to detect malicious network activity using machine learning.\n\n• Packet-level analysis\n• ML-based classification\n• Real-time monitoring",
+      "image": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?w=800",
       "tags": ["Machine Learning", "Python", "Streamlit"],
       "link": "",
       "featured": true
@@ -53,9 +53,9 @@
     {
       "id": 3,
       "title": "Smartphone Market Data Analysis",
-      "description": "Data-driven insights from real-world datasets.",
-      "longDescription": "Analyzed smartphone datasets to identify pricing trends and patterns.\n\n• Data cleaning and preprocessing\n• Visualization using Plotly\n• Regression-based insights",
-      "image": "",
+      "description": "Data analysis and insight generation.",
+      "longDescription": "Analyzed real-world smartphone datasets to extract insights.\n\n• Data preprocessing\n• Visualization using Plotly\n• Regression-based analysis",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
       "tags": ["Data Analytics", "Pandas", "Plotly"],
       "link": "",
       "featured": true
@@ -64,7 +64,7 @@
 
   "skills": [
     {
-      "category": "Core Skills",
+      "category": "Core",
       "items": [
         "Data Analytics",
         "Machine Learning Basics",
@@ -87,9 +87,19 @@
 
   "education": [
     {
-      "degree": "Bachelor of Technology – Electronics Engineering",
+      "degree": "B.Tech – Electronics Engineering",
       "institution": "Ramaiah Institute of Technology",
       "period": "2022–2026"
+    },
+    {
+      "degree": "Pre-University",
+      "institution": "Christ PU College Residential",
+      "period": ""
+    },
+    {
+      "degree": "ICSE",
+      "institution": "Clarence High School",
+      "period": ""
     }
   ],
 
